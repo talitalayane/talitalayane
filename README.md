@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Talita Layane Oliveira Silva
 
 💻 Back-End Developer | Ruby on Rails & Node.js | React Enthusiast  
-📍 Lisbon, Portugal | 📧 talita.layanes@gmail.com | 📞 (+351) 913 213 501
+📍 Lisbon, Portugal | 📧 talita.layanes@gmail.com
 
 ---
 
