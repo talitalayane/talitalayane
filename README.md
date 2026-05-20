@@ -20,7 +20,7 @@ I am continuously improving my skills in **Ruby on Rails, Node.js, React, SQL & 
 - **Languages & Frameworks:** Ruby on Rails, Node.js, React
 - **Databases:** SQL, NoSQL  
 - **Tools:** Git, GitHub, Jira, Agile methodologies  
-- **Testing & DevOps:** RSpec
+- **Testing:** RSpec, Postmam
 
 
 ## 🎓 Education & Courses
